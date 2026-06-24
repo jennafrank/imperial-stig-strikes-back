@@ -18,6 +18,8 @@
 </div>
 
 ---
+![2](2isrc.png)
+
 
 # ⚫ Imperial STIG Remediation Campaign
 ## Windows 11 Compliance Hardening Operation — `imperial-win11`
@@ -40,7 +42,7 @@
 
 ---
 
-![2](2isrc.png)
+![4](4isrc.png)
 
 ## Campaign Overview
 
@@ -95,12 +97,11 @@ AFTER   ▓▓▓▓▓▓▓▓▓▓▓░░░░░░░░░  50.4% Comp
 > **Scan source files:** [`04-scan-results/`](./04-scan-results/) — Raw Nessus CSV exports from both scans, plus analysis document
 
 ---
+![3](3isrc.png)
 
 ## Findings Remediated — All 11 Operations
 
 Each finding below links to its individual operation folder containing the full vulnerability description, remediation command, verification procedure, and security rationale.
-
-![3](3isrc.png)
 
 ### ⚙️ Audit Policy Hardening (10 Operations)
 
@@ -124,7 +125,6 @@ Each finding below links to its individual operation folder containing the full 
 | 11 | [WN11-SO-000215](./01-findings-remediated/WN11-SO-000215-NTLM-Session-Security/) | NTLM SSP Minimum Session Security — NTLMv2 + 128-bit encryption | Security Options | ![REMEDIATED](https://img.shields.io/badge/-REMEDIATED-success) |
 
 ---
-![4](4isrc.png)
 
 ## Remediation Strategy
 
