@@ -227,7 +227,7 @@ imperial-stig-strikes-back/
     ├── COMPLIANCE-CHECKLIST.md
     └── IMPERIAL-SECURITY-DIRECTIVES.md
 ```
-
+![leaders](leaders.png)
 ---
 
 <div align="center">
